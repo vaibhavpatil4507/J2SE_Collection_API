@@ -1,0 +1,1 @@
+collection api is the framework in build in java standard edition (J2Se) which hava various type of interfaces as well classes.
