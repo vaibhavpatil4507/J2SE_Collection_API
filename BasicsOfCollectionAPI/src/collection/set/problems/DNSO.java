@@ -47,6 +47,7 @@ class MyOwnSortingOrder1 implements Comparator<Book> {
 //	}
 
 	// case 3]allow duplicate value and DNSO order
+	
 	@Override
 	public int compare(Book o1, Book o2) {
 		int t = o1.compareTo(o2);
